@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DebbiePotts87
-- 👀 I’m interested in web design
+- 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning HTLM, CSS and JavaScript
 
 <!---
