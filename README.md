@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DebbiePotts87
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning HTLM, CSS and JavaScript
+- 🌱 Fullstack Web Development Student
 
 <!---
 DebbiePotts87/DebbiePotts87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
